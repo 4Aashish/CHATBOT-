@@ -1,3 +1,5 @@
+# This code was developed by Aashish Sharma.
+
 from core.assistant import Assistant
 
 def main() -> None:
