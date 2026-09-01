@@ -1,0 +1,2 @@
+# The text-command MVP uses only the Python standard library.
+# Add optional dependencies only when their feature is enabled.

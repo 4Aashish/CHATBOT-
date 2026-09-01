@@ -1,0 +1,12 @@
+{
+  "name": "Weather App",
+  "path": "C:\\Users\\iamaa\\Desktop\\Jarvis_AI_Assistant\\projects\\weather_app",
+  "technology": "Python standard library",
+  "completed_features": [
+    "initial structure",
+    "starter program",
+    "smoke test"
+  ],
+  "pending_features": [],
+  "known_issues": []
+}
