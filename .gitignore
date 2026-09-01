@@ -2,4 +2,3 @@
 __pycache__/
 *.pyc
 logs/*.log
-.env.example
